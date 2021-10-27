@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **kusal0themiya@gmail.com**
+- 📫 How to reach me **t.me/kusal_themiya**
 
 - ⚡ Fun fact **be cool 😎**
 
