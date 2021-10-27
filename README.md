@@ -36,5 +36,5 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KusalThemiya&layout=compact"></a>
+<a href="https://github.com/KusalThemiya"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KusalThemiya&layout=compact"></a>
 </p>
