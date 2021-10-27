@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kusalthemiya" target="blank"><img src="https://img.shields.io/twitter/follow/kusalthemiya?logo=twitter&style=for-the-badge" alt="kusalthemiya" /></a> </p>
 
-- 🔭 I’m currently working as a **student**
+- 👨‍💻 I’m currently working as a **student**
 
 - 🌱 I’m currently learning **about cyber security & ethical hacking**
 
