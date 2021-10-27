@@ -28,4 +28,4 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusalthemiya&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="kusalthemiya" />
 
-<p align="right"><img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/coding.gif"></p>
+<img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/coding.gif"></p>
