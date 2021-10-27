@@ -20,7 +20,7 @@
 <a href="https://twitter.com/kusalthemiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kusalthemiya" height="30" width="40" /></a>
 <a href="https://fb.com/kusal.themiya.982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal.themiya.982" height="30" width="40" /></a>
 <a href="https://instagram.com/_kusal_themiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kusal_themiya_" height="30" width="40" /></a>
-<a href="https://t.me/kusal_themiya" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Ftelegram-logo%2F&psig=AOvVaw3SJrSG0yczE6-Z6dy4uacj&ust=1635416372540000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDm_fKu6vMCFQAAAAAdAAAAABAD" alt="kusal_themiya" height="30" width="40" /></a>
+<a href="https://t.me/kusal_themiya" target="blank"><img align="center" src="https://github.com/KusalThemiya/KusalThemiya/blob/main/Telegram-logo.png" alt="kusal_themiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
