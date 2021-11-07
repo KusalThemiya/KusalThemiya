@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalthemiya&label=Profile%20views&color=0eb47d&style=plastic" alt="kusalthemiya" /> </p>
 
+<table>
+  <td>
+
 - 👨‍💻 I’m currently working as a **student**
 
 - 🌱 I’m currently learning **about cyber security & ethical hacking**
@@ -12,6 +15,11 @@
 - 📫 How to reach me **kusal0themiya@gmail.com**
 
 - ⚡ Fun fact **be cool 😎**
+    
+    </td>
+    <td><img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/becool.gif"
+             </td>
+      </table>
 
 # CONTACT ME:
 <p align="left">
