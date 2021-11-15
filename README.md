@@ -38,4 +38,3 @@
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KusalThemiya&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/Gictorbit/github-readme-stats)
