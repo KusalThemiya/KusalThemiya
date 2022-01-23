@@ -6,15 +6,11 @@
 <table>
   <td>
 
-- 👨‍💻 Focus on your **targets**
-
 - 🌱 I’m currently learning **about cyber security & ethical hacking**
 
 - 💬 Ask me about **anything**
 
 - 📫 **kusal0themiya@gmail.com**
-
-- ⚡ **be cool 😎**
     
     </td>
     <td><img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/becool.gif"
