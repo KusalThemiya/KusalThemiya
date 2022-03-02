@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kusal Themiya</h1>
-<h3 align="center">Still studying...</h3>
+<h3 align="center">Still studying...</h3><img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/fire.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalthemiya&label=Profile%20views&color=0eb47d&style=plastic" alt="kusalthemiya" /> </p>
 
