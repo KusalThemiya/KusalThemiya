@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kusal Themiya</h1>
-<h3 align="center">Still studying... <img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/fire.gif" height="45" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalthemiya&label=Profile%20views&color=0eb47d&style=plastic" alt="kusalthemiya" /> </p>
 
 <table>
   <td>
 
-- 🌱 I’m currently learning **about cyber security & ethical hacking**
+- <img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/fire.gif" height="45" width="30"> I'm **Full Stack Developer** 
 
 - 💬 Ask me about **anything**
 
