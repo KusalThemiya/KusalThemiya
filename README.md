@@ -14,13 +14,32 @@
 
 # CONTACT ME:
 <p align="left">
-<a href="https://twitter.com/kusalthemiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kusalthemiya" height="30" width="40" /></a>
-<a href="https://fb.com/kusal.themiya.982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusal.themiya.27" height="30" width="40" /></a>
-<a href="https://instagram.com/kusal.themiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kusal_themiya_" height="30" width="40" /></a>
-<a href="https://t.me/kusal_themiya" target="blank"><img align="center" src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/Telegram-logo.png" alt="kusal_themiya" height="37" width="60" /></a>
+<a href="https://twitter.com/kusalthemiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="3.4%" /></a>
+<a href="https://fb.com/kusal.themiya.982" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="3.4%" /></a>
+<a href="https://instagram.com/kusal.themiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="_kusal_themiya_" width="3.5%" /></a>
+<a href="https://t.me/kusal_themiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="kusal_themiya" width="3.4%" /></a>
+<a href="kusal0themiya@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="kusal_themiya" width="4.3%" /></a>
 </p>
 
 <br>
 
 # GITHUB STATUS:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KusalThemiya&theme=gotham&show_icons=true)
+
+<img width="57%" align="left" src="https://github-readme-stats.vercel.app/api?username=KusalThemiya&theme=gotham&show_icons=truev" />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+</p>
