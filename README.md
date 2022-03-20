@@ -9,7 +9,6 @@
 - 🤔 I’m looking for new ideas
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I'm Still Student
-- 📫 How to reach me: kusal0themiya@gmail.com
 <br>
 
 # CONTACT ME:
