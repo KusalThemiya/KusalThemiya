@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalthemiya&label=Profile%20views&color=0eb47d&style=plastic" alt="kusalthemiya" />    <img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/fire.gif" height="45" width="30"> </p>
  
-- 👨🏽‍💻 I’m currently working on [BOTS.LK](https://t.me/b0ts_lk/)
+- 👨🏽‍💻 You can visit my personal website [themiya.org](https://kusalthemiya.github.io/portfolio/)
 - 🌱 I’m currently learning Linux & programming
 - 🤔 I’m looking for new ideas
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I'm Still Student
+- ⚡️ Fun-Fact: I love cofee
 <br>
 
 # CONTACT ME:
