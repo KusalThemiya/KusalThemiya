@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalthemiya&label=Profile%20views&color=0eb47d&style=plastic" alt="kusalthemiya" />    <img src="https://github.com/KusalThemiya/KusalThemiya/blob/main/files/fire.gif" height="45" width="30"> </p>
  
-- 👨🏽‍💻 You can visit to my personal website by [clicking here](https://kusalthemiya.github.io/portfolio/)
+- 👨🏽‍💻 You can visit to my personal website by [clicking here](www.kusalthemiya.tk)
 - 🌱 I’m currently learning Linux & programming
 - 🤔 I’m looking for new ideas
 - 💬 Ask me about anything, I am happy to help
